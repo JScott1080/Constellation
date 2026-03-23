@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Constellation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F154310-5E5C-479E-8698-70DF5AA2372D}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F154310-5E5C-479E-8698-70DF5AA2372D}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E685D4-2F85-4B14-852B-E615557A4ECB}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\constellationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E685D4-2F85-4B14-852B-E615557A4ECB}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\constellationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F154310-5E5C-479E-8698-70DF5AA2372D}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\constellation.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F154310-5E5C-479E-8698-70DF5AA2372D}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\constellation.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C5A2A-5838-4252-A023-63B6D1D772B4}|Constellation.Api\\Constellation.Api.csproj|d:\\constellation\\constellation.api\\constellation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{800C5A2A-5838-4252-A023-63B6D1D772B4}|Constellation.Api\\Constellation.Api.csproj|solutionrelative:constellation.api\\constellation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E685D4-2F85-4B14-852B-E615557A4ECB}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\constellation.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27E685D4-2F85-4B14-852B-E615557A4ECB}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\constellation.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FE34A5-63FE-45D7-8FBE-F6EFA0F9B839}|Solution Items{A5FE34A5-63FE-45D7-8FBE-F6EFA0F9B839}|D:\\Constellation\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A5FE34A5-63FE-45D7-8FBE-F6EFA0F9B839}|Solution Items{A5FE34A5-63FE-45D7-8FBE-F6EFA0F9B839}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C5A2A-5838-4252-A023-63B6D1D772B4}|Constellation.Api\\Constellation.Api.csproj|d:\\constellation\\constellation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{800C5A2A-5838-4252-A023-63B6D1D772B4}|Constellation.Api\\Constellation.Api.csproj|solutionrelative:constellation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C5A2A-5838-4252-A023-63B6D1D772B4}|Constellation.Api\\Constellation.Api.csproj|d:\\constellation\\constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C5A2A-5838-4252-A023-63B6D1D772B4}|Constellation.Api\\Constellation.Api.csproj|solutionrelative:constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F8E1-89E4-40AF-9E76-42F6AF2C8F5D}|Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj|d:\\constellation\\constellation.infrastructure.migrations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F8E1-89E4-40AF-9E76-42F6AF2C8F5D}|Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj|solutionrelative:constellation.infrastructure.migrations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6368C0C5-2C3E-4222-AC76-AF154894057E}|Constellation.Application\\Constellation.Application.csproj|d:\\constellation\\constellation.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6368C0C5-2C3E-4222-AC76-AF154894057E}|Constellation.Application\\Constellation.Application.csproj|solutionrelative:constellation.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Company.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
+              "RelativeToolTip": "Constellation.Domain\\Companies\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:16:46.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constellation.Api",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Api\\Constellation.Api.csproj",
+              "RelativeDocumentMoniker": "Constellation.Api\\Constellation.Api.csproj",
+              "ToolTip": "D:\\Constellation\\Constellation.Api\\Constellation.Api.csproj",
+              "RelativeToolTip": "Constellation.Api\\Constellation.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T07:53:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constellation.Domain",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Constellation.Domain.csproj",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
+              "RelativeToolTip": "Constellation.Domain\\Constellation.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T07:51:18.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstellationDbContext.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
+              "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
+              "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:46:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Constellation.Api\\Program.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Api\\Program.cs",
+              "RelativeToolTip": "Constellation.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:28:19.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Constellation.Api\\appsettings.json",
+              "ToolTip": "D:\\Constellation\\Constellation.Api\\appsettings.json",
+              "RelativeToolTip": "Constellation.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T07:25:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Constellation\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Constellation\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-23T07:24:42.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constellation.Infrastructure",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+              "ToolTip": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+              "RelativeToolTip": "Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T07:20:26.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure.Migrations\\Class1.cs",
+              "RelativeDocumentMoniker": "Constellation.Infrastructure.Migrations\\Class1.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Infrastructure.Migrations\\Class1.cs",
+              "RelativeToolTip": "Constellation.Infrastructure.Migrations\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:17:28.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Constellation.Application\\Class1.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Application\\Class1.cs",
+              "RelativeToolTip": "Constellation.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:16:28.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

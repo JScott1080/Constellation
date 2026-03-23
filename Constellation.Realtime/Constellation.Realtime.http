@@ -1,0 +1,6 @@
+@Constellation.Realtime_HostAddress = http://localhost:5142
+
+GET {{Constellation.Realtime_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

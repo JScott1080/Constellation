@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="Constellation.Api.Tests/Constellation.Api.Tests.csproj" />
+  <Project Path="Constellation.Api/Constellation.Api.csproj" />
+  <Project Path="Constellation.Application/Constellation.Application.csproj" />
+  <Project Path="Constellation.BackgroundJobs/Constellation.BackgroundJobs.csproj" />
+  <Project Path="Constellation.Contracts/Constellation.Contracts.csproj" />
+  <Project Path="Constellation.Domain/Constellation.Domain.csproj" />
+  <Project Path="Constellation.Infrastructure.Migrations/Constellation.Infrastructure.Migrations.csproj" />
+  <Project Path="Constellation.Infrastructure/Constellation.Infrastructure.csproj" />
+  <Project Path="Constellation.Realtime/Constellation.Realtime.csproj" />
+  <Project Path="Constellation.Shared/Constellation.Shared.csproj" />
+  <Project Path="Constellation.Tests/Constellation.Tests.csproj" />
+</Solution>
