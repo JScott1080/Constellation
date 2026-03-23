@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Constellation\\Constellation.Api\\Constellation.Api.csproj": {}
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api\\Constellation.Api.csproj": {}
   },
   "projects": {
-    "D:\\Constellation\\Constellation.Api\\Constellation.Api.csproj": {
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api\\Constellation.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Constellation\\Constellation.Api\\Constellation.Api.csproj",
+        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api\\Constellation.Api.csproj",
         "projectName": "Constellation.Api",
-        "projectPath": "D:\\Constellation\\Constellation.Api\\Constellation.Api.csproj",
+        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api\\Constellation.Api.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "D:\\Constellation\\Constellation.Api\\obj\\",
+        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Constellation\\Constellation.Application\\Constellation.Application.csproj": {
-                "projectPath": "D:\\Constellation\\Constellation.Application\\Constellation.Application.csproj"
+              "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Application\\Constellation.Application.csproj": {
+                "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Application\\Constellation.Application.csproj"
               },
-              "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
-                "projectPath": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj"
+              "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
+                "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj"
               },
-              "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj": {
-                "projectPath": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj"
+              "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj"
               }
             }
           }
@@ -54,7 +54,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -502,14 +502,14 @@
         }
       }
     },
-    "D:\\Constellation\\Constellation.Application\\Constellation.Application.csproj": {
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Application\\Constellation.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Constellation\\Constellation.Application\\Constellation.Application.csproj",
+        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Application\\Constellation.Application.csproj",
         "projectName": "Constellation.Application",
-        "projectPath": "D:\\Constellation\\Constellation.Application\\Constellation.Application.csproj",
+        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Application\\Constellation.Application.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "D:\\Constellation\\Constellation.Application\\obj\\",
+        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -542,7 +542,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -563,7 +563,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -841,14 +841,14 @@
         }
       }
     },
-    "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
         "projectName": "Constellation.Domain",
-        "projectPath": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
+        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "D:\\Constellation\\Constellation.Domain\\obj\\",
+        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -881,7 +881,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -902,7 +902,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1180,14 +1180,14 @@
         }
       }
     },
-    "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj": {
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
         "projectName": "Constellation.Infrastructure",
-        "projectPath": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "D:\\Constellation\\Constellation.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1208,8 +1208,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
-                "projectPath": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj"
+              "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
+                "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj"
               }
             }
           }
@@ -1224,7 +1224,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -1237,6 +1237,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[10.0.5, )"
             },
@@ -1267,7 +1271,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
