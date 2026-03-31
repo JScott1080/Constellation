@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-Constellation.BackgroundJobs-438235c6-6594-4515-ae47-99befa453ecf")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.BackgroundJobs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74aaf5b04aabc35493ebd02bbbad72271ab8e10f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c4e97cd440f4508ac8e98ae7cb1b90326b3566")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.BackgroundJobs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.BackgroundJobs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

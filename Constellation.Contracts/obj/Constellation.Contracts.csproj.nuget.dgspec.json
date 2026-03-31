@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj": {}
+    "D:\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj": {
+    "D:\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
+        "projectUniqueName": "D:\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
         "projectName": "Constellation.Contracts",
-        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
+        "projectPath": "D:\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\obj\\",
+        "outputPath": "D:\\Constellation\\Constellation.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

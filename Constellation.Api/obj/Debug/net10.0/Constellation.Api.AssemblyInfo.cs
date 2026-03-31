@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74aaf5b04aabc35493ebd02bbbad72271ab8e10f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c4e97cd440f4508ac8e98ae7cb1b90326b3566")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

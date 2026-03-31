@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj": {}
+    "D:\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj": {
+    "D:\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj",
+        "projectUniqueName": "D:\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj",
         "projectName": "Constellation.Api.Tests",
-        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj",
+        "projectPath": "D:\\Constellation\\Constellation.Api.Tests\\Constellation.Api.Tests.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Api.Tests\\obj\\",
+        "outputPath": "D:\\Constellation\\Constellation.Api.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
