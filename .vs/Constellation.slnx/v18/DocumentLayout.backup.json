@@ -3,56 +3,24 @@
   "WorkspaceRootPath": "D:\\Constellation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\files\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\files\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\constellationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\constellationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\tasks\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\tasks\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\tasks\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\tasks\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\constellation.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\constellation.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\boards\\boardcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\boards\\boardcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\boards\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\boards\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\companies\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\companies\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\companies\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\companies\\companyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\companies\\companyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\companies\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\companies\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{678E30AF-7B21-0158-C2AB-36846FB1BFCE}|Constellation.Api\\Constellation.Api.csproj|d:\\constellation\\constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{678E30AF-7B21-0158-C2AB-36846FB1BFCE}|Constellation.Api\\Constellation.Api.csproj|solutionrelative:constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\companies\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\companies\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\constellationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\constellationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{678E30AF-7B21-0158-C2AB-36846FB1BFCE}|Constellation.Api\\Constellation.Api.csproj|d:\\constellation\\constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678E30AF-7B21-0158-C2AB-36846FB1BFCE}|Constellation.Api\\Constellation.Api.csproj|solutionrelative:constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,152 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Company.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
-              "RelativeToolTip": "Constellation.Domain\\Companies\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:16:46.971Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileRecord.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Files\\FileRecord.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Files\\FileRecord.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Files\\FileRecord.cs",
-              "RelativeToolTip": "Constellation.Domain\\Files\\FileRecord.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:35:51.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskComment.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskComment.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskComment.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskComment.cs",
-              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:35:24.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskAssignment.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:34:56.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskItem.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskItem.cs",
-              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskItem.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:34:43.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BoardColumn.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Boards\\BoardColumn.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Boards\\BoardColumn.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Boards\\BoardColumn.cs",
-              "RelativeToolTip": "Constellation.Domain\\Boards\\BoardColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:34:10.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Board.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Boards\\Board.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Boards\\Board.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Boards\\Board.cs",
-              "RelativeToolTip": "Constellation.Domain\\Boards\\Board.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:33:47.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Constellation.Domain",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Constellation.Domain.csproj",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj",
-              "RelativeToolTip": "Constellation.Domain\\Constellation.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-31T03:33:29.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Project.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Projects\\Project.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Projects\\Project.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Projects\\Project.cs",
-              "RelativeToolTip": "Constellation.Domain\\Projects\\Project.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:30:27.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\User.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\User.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\User.cs",
-              "RelativeToolTip": "Constellation.Domain\\Companies\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:27:47.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Membership.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Membership.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Membership.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\Membership.cs",
-              "RelativeToolTip": "Constellation.Domain\\Companies\\Membership.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:25:11.26Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -226,7 +50,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "CompanyRole.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\CompanyRole.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\CompanyRole.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\CompanyRole.cs",
+              "RelativeToolTip": "Constellation.Domain\\Companies\\CompanyRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T03:37:18.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\User.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\User.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\User.cs",
+              "RelativeToolTip": "Constellation.Domain\\Companies\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T03:27:47.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Membership.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Membership.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\Membership.cs",
+              "RelativeToolTip": "Constellation.Domain\\Companies\\Membership.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T03:25:11.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Api\\Program.cs",
               "RelativeDocumentMoniker": "Constellation.Api\\Program.cs",
@@ -234,12 +94,11 @@
               "RelativeToolTip": "Constellation.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T23:26:21.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T23:26:21.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "ConstellationDbContext.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
@@ -247,7 +106,8 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:46:39.04Z"
+              "WhenOpened": "2026-03-23T07:46:39.04Z",
+              "EditorCaption": ""
             }
           ]
         }
