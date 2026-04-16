@@ -4,21 +4,21 @@ using System.Text;
 
 namespace Constellation.Domain.Boards;
 
-public class Board
+public class Board : BaseEntity
 {
-    public Guid Id { get; private set; }
     public Guid ProjectId { get; private set; }
     public string Name { get; private set; } = default!;
     public int Order { get; private set; }
 
+    // Required for Entity Framework
     private Board() { }
 
-    public Board(Guid projectId, string name, int order)
+    public Board(Guid tenantId, Guid projectId, string name, int order)
     {
         Id = Guid.NewGuid();
+        TenantId = tenantId;
         ProjectId = projectId;
         Name = name;
         Order = order;
     }
 }
-

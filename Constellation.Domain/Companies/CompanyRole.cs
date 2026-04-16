@@ -4,20 +4,23 @@ using System.Text;
 
 namespace Constellation.Domain.Companies;
 
-public class CompanyRole
+public class CompanyRole : BaseEntity
 {
-    public Guid Id { get; private set; }
-    public Guid CompanyId { get; private set; }
     public string Name { get; private set; } = default!;
     public bool IsSystemRole { get; private set; }
 
+    private readonly List<string> _permissions = new();
+    public IReadOnlyCollection<string> Permissions => _permissions.AsReadOnly();
+
     private CompanyRole() { }
 
-    public CompanyRole(Guid companyId, string name, bool isSystemRole = false)
+    public CompanyRole(Guid tenantId, string name, bool isSystemRole = false)
     {
         Id = Guid.NewGuid();
-        CompanyId = companyId;
+        TenantId = tenantId; // From BaseEntity
         Name = name;
         IsSystemRole = isSystemRole;
     }
+
+    public void AddPermission(string permission) { /* logic */ }
 }

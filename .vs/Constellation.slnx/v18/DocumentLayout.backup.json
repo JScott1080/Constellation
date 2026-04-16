@@ -111,8 +111,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\TaskCommentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:39:18.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:39:18.203Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\TaskAssignmentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:37:43.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:37:43.179Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\TaskItemConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:34:20.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:34:20.548Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\BoardColumnConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:24:30.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:24:30.355Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\BoardConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:21:16.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:21:16.848Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T10:52:10.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T10:52:10.102Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\MembershipConficuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T10:44:01.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T10:44:01.135Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\CompanyRoleConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T10:21:02.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T10:21:02.644Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T09:50:10.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T09:50:10.334Z"
             },
             {
               "$type": "Document",
@@ -276,8 +267,7 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:46:39.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T07:46:39.04Z"
             }
           ]
         }
