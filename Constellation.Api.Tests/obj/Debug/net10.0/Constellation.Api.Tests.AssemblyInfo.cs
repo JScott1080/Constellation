@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.Api.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c4e97cd440f4508ac8e98ae7cb1b90326b3566")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3efcaa54be742ca4abe8b2c91f90c3b51d8518")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.Api.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.Api.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

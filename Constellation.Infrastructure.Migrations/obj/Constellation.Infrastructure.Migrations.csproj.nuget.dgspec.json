@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj": {}
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj": {}
   },
   "projects": {
-    "D:\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj": {
+    "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj",
+        "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj",
         "projectName": "Constellation.Infrastructure.Migrations",
-        "projectPath": "D:\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj",
+        "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure.Migrations\\Constellation.Infrastructure.Migrations.csproj",
         "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-        "outputPath": "D:\\Constellation\\Constellation.Infrastructure.Migrations\\obj\\",
+        "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure.Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
