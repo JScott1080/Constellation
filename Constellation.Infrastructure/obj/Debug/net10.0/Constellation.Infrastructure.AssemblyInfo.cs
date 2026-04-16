@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83246e2cadb68a1dda5e8a726156f588fe455381")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3efcaa54be742ca4abe8b2c91f90c3b51d8518")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
