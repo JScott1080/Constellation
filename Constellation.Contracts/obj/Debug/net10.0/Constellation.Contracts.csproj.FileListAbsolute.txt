@@ -1,0 +1,12 @@
+D:\Constellation\Constellation.Contracts\bin\Debug\net10.0\Constellation.Contracts.deps.json
+D:\Constellation\Constellation.Contracts\bin\Debug\net10.0\Constellation.Contracts.dll
+D:\Constellation\Constellation.Contracts\bin\Debug\net10.0\Constellation.Contracts.pdb
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.AssemblyInfoInputs.cache
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.AssemblyInfo.cs
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.csproj.CoreCompileInputs.cache
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.sourcelink.json
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.dll
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\refint\Constellation.Contracts.dll
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\Constellation.Contracts.pdb
+D:\Constellation\Constellation.Contracts\obj\Debug\net10.0\ref\Constellation.Contracts.dll

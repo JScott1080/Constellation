@@ -20,11 +20,10 @@ public class TaskItemConfiguration : IEntityTypeConfiguration<TaskItem>
         builder.Property(t => t.Description)
             .HasMaxLength(500);
 
-        builder.Property(t => t.CreatedAt)
+        builder.Property(t => t.CreatedAtUtc)
             .IsRequired();
 
-        builder.Property(t => t.UpdatedAt)
-            .IsRequired();
+        builder.Property(t => t.UpdatedAtUtc);
 
         builder.HasIndex(t => t.BoardColumnId);
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3efcaa54be742ca4abe8b2c91f90c3b51d8518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a99497ec9ce569737786cc785bf7442fdd97660")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

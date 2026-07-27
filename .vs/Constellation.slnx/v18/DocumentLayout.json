@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Constellation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\projects\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\projects\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\boardcolumnconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\boardcolumnconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\filerecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\filerecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\boardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\boardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\tasks\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\tasks\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\tasks\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\tasks\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\tasks\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\projects\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|solutionrelative:constellation.domain\\projects\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1DB0971-D3DA-030C-53FD-3859975C89F6}|Constellation.Domain\\Constellation.Domain.csproj|d:\\constellation\\constellation.domain\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\filerecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\filerecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\taskcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\taskcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\taskitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\boardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\boardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\membershipconficuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\membershipconficuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\companyroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\companyroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|d:\\constellation\\constellation.infrastructure\\persistence\\configurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BAAD46-8446-24BA-61B6-7D51C01DC626}|Constellation.Infrastructure\\Constellation.Infrastructure.csproj|solutionrelative:constellation.infrastructure\\persistence\\configurations\\companyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{678E30AF-7B21-0158-C2AB-36846FB1BFCE}|Constellation.Api\\Constellation.Api.csproj|d:\\constellation\\constellation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,138 +106,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskComment.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskComment.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskComment.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskComment.cs",
-              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:59:48.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskItem.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskItem.cs",
-              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskItem.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:57:34.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskAssignment.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskAssignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:56:58.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectStatus.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Projects\\ProjectStatus.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Projects\\ProjectStatus.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Projects\\ProjectStatus.cs",
-              "RelativeToolTip": "Constellation.Domain\\Projects\\ProjectStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:55:39.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Project.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Projects\\Project.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Projects\\Project.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Projects\\Project.cs",
-              "RelativeToolTip": "Constellation.Domain\\Projects\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:53:39.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FileRecord.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Files\\FileRecord.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Files\\FileRecord.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Files\\FileRecord.cs",
-              "RelativeToolTip": "Constellation.Domain\\Files\\FileRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:52:28.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Company.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Company.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
-              "RelativeToolTip": "Constellation.Domain\\Companies\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:45:26.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BoardColumn.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Boards\\BoardColumn.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Boards\\BoardColumn.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Boards\\BoardColumn.cs",
-              "RelativeToolTip": "Constellation.Domain\\Boards\\BoardColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:43:08.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\BaseEntity.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\BaseEntity.cs",
-              "RelativeToolTip": "Constellation.Domain\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:40:42.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Board.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Boards\\Board.cs",
-              "RelativeDocumentMoniker": "Constellation.Domain\\Boards\\Board.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Boards\\Board.cs",
-              "RelativeToolTip": "Constellation.Domain\\Boards\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T04:38:36.917Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -260,20 +126,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
+              "Title": "ProjectStatus.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Projects\\ProjectStatus.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Projects\\ProjectStatus.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Projects\\ProjectStatus.cs",
+              "RelativeToolTip": "Constellation.Domain\\Projects\\ProjectStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:55:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Projects\\Project.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Projects\\Project.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Projects\\Project.cs",
+              "RelativeToolTip": "Constellation.Domain\\Projects\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:53:39.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileRecord.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Files\\FileRecord.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Files\\FileRecord.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Files\\FileRecord.cs",
+              "RelativeToolTip": "Constellation.Domain\\Files\\FileRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:52:28.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Company.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Companies\\Company.cs",
+              "RelativeToolTip": "Constellation.Domain\\Companies\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:45:26.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoardColumn.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Boards\\BoardColumn.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Boards\\BoardColumn.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Boards\\BoardColumn.cs",
+              "RelativeToolTip": "Constellation.Domain\\Boards\\BoardColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:43:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\BaseEntity.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "Constellation.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:40:42.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Boards\\Board.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Boards\\Board.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Boards\\Board.cs",
+              "RelativeToolTip": "Constellation.Domain\\Boards\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:38:36.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FileRecordConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\FileRecordConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\FileRecordConfiguration.cs",
               "ToolTip": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\FileRecordConfiguration.cs",
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\FileRecordConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:54:11.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:54:11.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BoardColumnConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\BoardColumnConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\BoardColumnConfiguration.cs",
@@ -281,12 +231,11 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\BoardColumnConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:24:30.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:24:30.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "BoardConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\BoardConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\BoardConfiguration.cs",
@@ -298,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
@@ -306,8 +255,43 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T10:52:10.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T10:52:10.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyConfiguration.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
+              "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:50:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskItem.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskItem.cs",
+              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskItem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:57:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskComment.cs",
+              "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskComment.cs",
+              "RelativeDocumentMoniker": "Constellation.Domain\\Tasks\\TaskComment.cs",
+              "ToolTip": "D:\\Constellation\\Constellation.Domain\\Tasks\\TaskComment.cs",
+              "RelativeToolTip": "Constellation.Domain\\Tasks\\TaskComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:59:48.205Z"
             },
             {
               "$type": "Document",
@@ -335,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CompanyRole.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\CompanyRole.cs",
               "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\CompanyRole.cs",
@@ -343,12 +327,11 @@
               "RelativeToolTip": "Constellation.Domain\\Companies\\CompanyRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:37:18.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T03:37:18.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Membership.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\Membership.cs",
               "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\Membership.cs",
@@ -356,12 +339,11 @@
               "RelativeToolTip": "Constellation.Domain\\Companies\\Membership.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvxIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:25:11.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T03:25:11.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Domain\\Companies\\User.cs",
               "RelativeDocumentMoniker": "Constellation.Domain\\Companies\\User.cs",
@@ -369,12 +351,11 @@
               "RelativeToolTip": "Constellation.Domain\\Companies\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T03:27:47.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T03:27:47.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "TaskItemConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\TaskItemConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\TaskItemConfiguration.cs",
@@ -386,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "TaskAssignmentConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\TaskAssignmentConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\TaskAssignmentConfiguration.cs",
@@ -398,19 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CompanyConfiguration.cs",
-              "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
-              "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
-              "ToolTip": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
-              "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\Configurations\\CompanyConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T09:50:10.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ConstellationDbContext.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
@@ -418,12 +387,11 @@
               "RelativeToolTip": "Constellation.Infrastructure\\Persistence\\ConstellationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T07:46:39.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T07:46:39.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TaskCommentConfiguration.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Infrastructure\\Persistence\\Configurations\\TaskCommentConfiguration.cs",
               "RelativeDocumentMoniker": "Constellation.Infrastructure\\Persistence\\Configurations\\TaskCommentConfiguration.cs",
@@ -435,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Constellation\\Constellation.Api\\Program.cs",
               "RelativeDocumentMoniker": "Constellation.Api\\Program.cs",

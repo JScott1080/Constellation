@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using Constellation.Domain.Boards;
 using Constellation.Domain.Companies;
+using Constellation.Domain.Files;
 using Constellation.Domain.Projects;
 using Constellation.Domain.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 
 namespace Constellation.Infrastructure.Persistence;
 
@@ -22,11 +22,21 @@ public class ConstellationDbContext : DbContext
     public DbSet<User> Users => Set<User>();
 
     public DbSet<Project> Projects => Set<Project>();
+    public DbSet<ProjectStatus> ProjectStatuses => Set<ProjectStatus>();
 
     public DbSet<Board> Boards => Set<Board>();
     public DbSet<BoardColumn> BoardsColumns => Set<BoardColumn>();
 
     public DbSet<TaskItem> TaskItems => Set<TaskItem>();
     public DbSet<TaskAssignment> TaskAssignments => Set<TaskAssignment>();
+    public DbSet<TaskComment> TaskComments => Set<TaskComment>();
+
+    public DbSet<FileRecord> Files => Set<FileRecord>();
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ConstellationDbContext).Assembly);
+        base.OnModelCreating(modelBuilder);
+    }
 }
 

@@ -17,7 +17,7 @@ public class CompanyRoleConfiguration : IEntityTypeConfiguration<CompanyRole>
         builder.Property(r => r.IsSystemRole)
             .IsRequired();
 
-        builder.HasIndex(r => new { r.CompanyId, r.Name })
+        builder.HasIndex(r => new { r.TenantId, r.Name })
             .IsUnique();
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Constellation.Domain.Boards;
 
 namespace Constellation.Domain.Projects;
 
@@ -12,6 +13,8 @@ public class Project : BaseEntity
     public virtual ProjectStatus Status { get; private set; } = default!;
     public DateTime? StartDate { get; private set; }
     public DateTime? EndDate { get; private set; }
+    public IReadOnlyCollection<Board> Boards => _boards.AsReadOnly();
+    private readonly List<Board> _boards = new();
 
     private Project() { }
 
@@ -23,11 +26,25 @@ public class Project : BaseEntity
         Description = description;
         StatusId = initialStatusId; 
         CreatedAtUtc = DateTime.UtcNow;
+
+        var board = AddBoard("Default Board", 0, false);
+        board.AddColumn("Planning", 0, false);
+        board.AddColumn("In Progress", 1, false);
+        board.AddColumn("Inspection", 2, false);
+        board.AddColumn("Completed", 3, false);
     }
 
     public void UpdateStatus(Guid newStatusId)
     {
         // Business Logic: You can now check if this status belongs to the same tenant
         StatusId = newStatusId;
+    }
+
+    public Board AddBoard(string name, int order, bool touchUpdatedAt = true)
+    {
+        var board = new Board(this, name, order);
+        _boards.Add(board);
+        if (touchUpdatedAt) UpdatedAtUtc = DateTime.UtcNow;
+        return board;
     }
 }

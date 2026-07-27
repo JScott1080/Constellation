@@ -1,0 +1,12 @@
+D:\Constellation\Constellation.Infrastructure.Migrations\bin\Debug\net10.0\Constellation.Infrastructure.Migrations.deps.json
+D:\Constellation\Constellation.Infrastructure.Migrations\bin\Debug\net10.0\Constellation.Infrastructure.Migrations.dll
+D:\Constellation\Constellation.Infrastructure.Migrations\bin\Debug\net10.0\Constellation.Infrastructure.Migrations.pdb
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.AssemblyInfoInputs.cache
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.AssemblyInfo.cs
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.csproj.CoreCompileInputs.cache
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.sourcelink.json
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.dll
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\refint\Constellation.Infrastructure.Migrations.dll
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\Constellation.Infrastructure.Migrations.pdb
+D:\Constellation\Constellation.Infrastructure.Migrations\obj\Debug\net10.0\ref\Constellation.Infrastructure.Migrations.dll

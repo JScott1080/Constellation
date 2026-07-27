@@ -19,5 +19,10 @@ public class BoardConfiguration : IEntityTypeConfiguration<Board>
             .IsRequired();
 
         builder.HasIndex(b => new { b.ProjectId, b.Order });
+
+        builder.HasOne(b => b.Project)
+            .WithMany(p => p.Boards)
+            .HasForeignKey(b => b.ProjectId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }

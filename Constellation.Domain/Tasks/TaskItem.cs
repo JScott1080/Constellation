@@ -36,13 +36,13 @@ public class TaskItem : BaseEntity
         if (isLead && _assignments.Any(a => a.IsLead))
             throw new InvalidOperationException("This task already has a lead.");
 
-        _assignments.Add(new TaskAssignment(this.TenantId, this.Id, userId, isLead));
+        _assignments.Add(new TaskAssignment(this, userId, isLead));
         this.UpdatedAtUtc = DateTime.UtcNow;
     }
 
     public void AddComment(Guid userId, string content, Guid? fileRecordId = null)
     {
-        var comment = new TaskComment(this.TenantId, this.Id, userId, content, fileRecordId);
+        var comment = new TaskComment(this, userId, content, fileRecordId);
         _comments.Add(comment);
         this.UpdatedAtUtc = DateTime.UtcNow;
     }

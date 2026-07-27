@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.Infrastructure.Migrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c4e97cd440f4508ac8e98ae7cb1b90326b3566")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a99497ec9ce569737786cc785bf7442fdd97660")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.Infrastructure.Migrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.Infrastructure.Migrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

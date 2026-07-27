@@ -9,14 +9,16 @@ public class BoardColumn : BaseEntity
     public Guid BoardId { get; private set; }
     public string Name { get; private set; } = default!;
     public int Order { get; private set; }
+    public Board Board { get; private set; } = default!;
 
     private BoardColumn() { }
 
-    public BoardColumn(Guid tenantId, Guid boardId, string name, int order)
+   public BoardColumn(Board board, string name, int order)
     {
         Id = Guid.NewGuid();
-        TenantId = tenantId; // Pass this down from the Board
-        BoardId = boardId;
+        TenantId = board.TenantId;
+        BoardId = board.Id;
+        Board = board;
         Name = name;
         Order = order;
     }

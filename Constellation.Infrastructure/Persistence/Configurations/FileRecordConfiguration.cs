@@ -17,16 +17,16 @@ public class FileRecordConfiguration : IEntityTypeConfiguration<FileRecord>
             .IsRequired()
             .HasMaxLength(300);
 
-        builder.Property(f => f.StoragePath)
+        builder.Property(f => f.StorageKey)
             .IsRequired()
             .HasMaxLength (1024);
 
         builder.Property(f => f.Size)
             .IsRequired();
 
-        builder.Property(f => f.UploadedAt)
+        builder.Property(f => f.CreatedAtUtc)
             .IsRequired ();
 
-        builder.HasIndex(f => f.CompanyId);
+        builder.HasIndex(f => f.TenantId);
     }
 }

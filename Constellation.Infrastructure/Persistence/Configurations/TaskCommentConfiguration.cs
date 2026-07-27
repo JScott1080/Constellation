@@ -13,13 +13,18 @@ public class TaskCommentConfiguration : IEntityTypeConfiguration<TaskComment>
 
         builder.HasKey(t => t.Id);
 
-        builder.Property(c => c.Message)
+        builder.Property(c => c.Content)
             .IsRequired()
             .HasMaxLength(2000);
 
-        builder.Property(c => c.CreatedAt)
+        builder.Property(c => c.CreatedAtUtc)
             .IsRequired();
 
         builder.HasIndex(c => c.TaskId);
+
+        builder.HasOne(c => c.Task)
+            .WithMany(t => t.Comments)
+            .HasForeignKey(c => c.TaskId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }

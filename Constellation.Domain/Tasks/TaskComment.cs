@@ -10,14 +10,16 @@ public class TaskComment : BaseEntity
     public Guid UserId { get; private set; }
     public string Content { get; private set; } = default!;
     public Guid? FileRecordId { get; private set; }
+    public TaskItem Task { get; private set; } = default!;
 
     private TaskComment() { }
 
-    public TaskComment(Guid tenantId, Guid taskId, Guid userId, string content, Guid? fileRecordId = null)
+    public TaskComment(TaskItem task, Guid userId, string content, Guid? fileRecordId = null)
     {
         Id = Guid.NewGuid();
-        TenantId = tenantId;
-        TaskId = taskId;
+        TenantId = task.TenantId;
+        TaskId = task.Id;
+        Task = task;
         UserId = userId;
         Content = content;
         FileRecordId = fileRecordId;

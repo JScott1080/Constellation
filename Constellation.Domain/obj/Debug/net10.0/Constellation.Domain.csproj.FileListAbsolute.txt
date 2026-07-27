@@ -1,0 +1,12 @@
+D:\Constellation\Constellation.Domain\bin\Debug\net10.0\Constellation.Domain.deps.json
+D:\Constellation\Constellation.Domain\bin\Debug\net10.0\Constellation.Domain.dll
+D:\Constellation\Constellation.Domain\bin\Debug\net10.0\Constellation.Domain.pdb
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.AssemblyInfoInputs.cache
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.AssemblyInfo.cs
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.csproj.CoreCompileInputs.cache
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.sourcelink.json
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.dll
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\refint\Constellation.Domain.dll
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\Constellation.Domain.pdb
+D:\Constellation\Constellation.Domain\obj\Debug\net10.0\ref\Constellation.Domain.dll

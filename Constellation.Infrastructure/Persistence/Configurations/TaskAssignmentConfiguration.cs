@@ -14,5 +14,10 @@ public class TaskAssignmentConfiguration : IEntityTypeConfiguration<TaskAssignme
         builder.HasKey(a => new {a.TaskId, a.UserId});
 
         builder.HasIndex(a => a.UserId);
+
+        builder.HasOne(a => a.Task)
+            .WithMany(t => t.Assignments)
+            .HasForeignKey(a => a.TaskId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }

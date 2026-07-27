@@ -21,5 +21,10 @@ public class BoardColumnConfiguration : IEntityTypeConfiguration<BoardColumn>
             .IsRequired();
 
         builder.HasIndex(c => new { c.BoardId, c.Order });
+
+        builder.HasOne(c => c.Board)
+            .WithMany(b => b.Columns)
+            .HasForeignKey(c => c.BoardId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }
