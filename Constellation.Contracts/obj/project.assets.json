@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
       "projectName": "Constellation.Contracts",
-      "projectPath": "D:\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
+      "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\Constellation.Contracts.csproj",
       "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-      "outputPath": "D:\\Constellation\\Constellation.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

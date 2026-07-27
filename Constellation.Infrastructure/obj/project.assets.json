@@ -3751,11 +3751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
       "projectName": "Constellation.Infrastructure",
-      "projectPath": "D:\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\Constellation.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\zerop\\.nuget\\packages\\",
-      "outputPath": "D:\\Constellation\\Constellation.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3777,8 +3777,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
-              "projectPath": "D:\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj"
+            "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj": {
+              "projectPath": "C:\\Users\\zerop\\Documents\\GitHub\\Constellation\\Constellation.Domain\\Constellation.Domain.csproj"
             }
           }
         }
