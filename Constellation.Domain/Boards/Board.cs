@@ -27,10 +27,11 @@ public class Board : BaseEntity
         Order = order;
     }
 
-    public void AddColumn(string name, int order, bool touchUpdatedAt = true)
+    public BoardColumn AddColumn(string name, int order, bool touchUpdatedAt = true)
     {
         var column = new BoardColumn(this, name, order);
         _columns.Add(column);
         if (touchUpdatedAt) UpdatedAtUtc = DateTime.UtcNow;
+        return column;
     }
 }

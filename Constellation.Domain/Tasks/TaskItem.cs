@@ -30,21 +30,26 @@ public class TaskItem : BaseEntity
         CreatedAtUtc = DateTime.UtcNow;
     }
 
-    public void AssignUser(Guid userId, bool isLead = false)
+    public TaskAssignment AssignUser(Guid userId, bool isLead = false)
     {
-        if (_assignments.Any(a => a.UserId == userId)) return;
+        var existing = _assignments.FirstOrDefault(a => a.UserId == userId);
+        if (existing != null) return existing;
+
         if (isLead && _assignments.Any(a => a.IsLead))
             throw new InvalidOperationException("This task already has a lead.");
 
-        _assignments.Add(new TaskAssignment(this, userId, isLead));
+        var assignment = new TaskAssignment(this, userId, isLead);
+        _assignments.Add(assignment);
         this.UpdatedAtUtc = DateTime.UtcNow;
+        return assignment;
     }
 
-    public void AddComment(Guid userId, string content, Guid? fileRecordId = null)
+    public TaskComment AddComment(Guid userId, string content, Guid? fileRecordId = null)
     {
         var comment = new TaskComment(this, userId, content, fileRecordId);
         _comments.Add(comment);
         this.UpdatedAtUtc = DateTime.UtcNow;
+        return comment;
     }
 }
 

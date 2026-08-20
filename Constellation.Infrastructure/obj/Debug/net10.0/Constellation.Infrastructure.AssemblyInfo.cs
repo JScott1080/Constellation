@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constellation.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3329ef422f8a92d237425acb9e55902f9ed9443b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203942eaa45b3eca1b3b09fdbff36a7129094f67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constellation.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constellation.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
